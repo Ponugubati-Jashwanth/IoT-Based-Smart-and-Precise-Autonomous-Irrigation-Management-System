@@ -1,0 +1,8 @@
+Connections:
+DHT11 data pin to D2 (GPIO 4 on the ESP8266)
+Soil moisture sensor analog output to A0 (Analog input on ESP8266)
+Motor control pin to D6 (GPIO 12) via a relay
+LED pin to D5 (GPIO 14)
+Power the DHT11 and soil sensor using the 3.3V and GND pins of the ESP8266.
+
+Change SSID and Password as per your wifi credentials.
